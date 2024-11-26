@@ -1,2 +1,2 @@
 # RE-Recognizer
-parallel recognizer for regular expressions
+parallel recognizer for regular texts
